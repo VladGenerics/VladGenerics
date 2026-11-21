@@ -1,10 +1,4 @@
-```
-fullstack developer
-
-back   python · go · postgresql · docker
-front  typescript · react · next.js
-tg     bots · mini apps · payments
-```
+fullstack developer — telegram bots & mini apps
 
 ### projects
 
